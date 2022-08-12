@@ -104,7 +104,7 @@ img.gpd{
   height: 600px;
 }
 div.jk{
-  border: 4px solid yellow;
+  
 padding-top:25rem;
 background-color: black;
  justify-content: center;
@@ -112,5 +112,10 @@ background-color: black;
 img.ifd{
   width: 5%;
   height:20%;
-
+  display: inline-block;
+  position: relative;
+  left: 40rem;
+}
+p.last{
+  text-align: center;
 }
